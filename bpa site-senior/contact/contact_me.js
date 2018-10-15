@@ -4,6 +4,7 @@
   */   
 //lets see how github works
 //Let's continue to go
+//things are changing
 $(function() {
 
  $("input,textarea").jqBootstrapValidation(
